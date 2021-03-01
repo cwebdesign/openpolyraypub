@@ -1,28 +1,11 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>OpenPolyray</title>
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Homemd</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">xCV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there</h1>
-				<p></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:">email</a></li>
-        		<li><a href="https://github.com/">github.com/</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+---
+layout: default
+title: Hank Quinlan's Blog
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
