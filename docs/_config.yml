@@ -4,4 +4,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://openpolyray.com" # the base hostname & protocol for your site, e.g. http://example.com
-encoding: UTF-8f
+encoding: UTF-8
