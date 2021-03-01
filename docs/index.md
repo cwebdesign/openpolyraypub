@@ -16,4 +16,3 @@ layout: default
 		</div><!-- /.container -->
 		
 	</body>
-</html>
