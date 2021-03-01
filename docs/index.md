@@ -2,7 +2,7 @@
 layout: default
 ---
 <body>
-		
+		<link rel="stylesheet" type="text/css" href="style.css" />
 		<div class="container">
     		<div class="blurb">
         		<h1>OpenPolyray</h1>
