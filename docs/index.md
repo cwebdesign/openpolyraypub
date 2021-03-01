@@ -1,8 +1,7 @@
-<html>
-	<head>
-		<title>OpenPolyray</title>
-	</head>
-	<body>
+---
+layout: default
+---
+<body>
 		
 		<div class="container">
     		<div class="blurb">
