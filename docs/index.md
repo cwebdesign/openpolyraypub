@@ -4,14 +4,7 @@
 		<title>OpenPolyray</title>
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Homemd</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">mdxCV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
+		
 		<div class="container">
     		<div class="blurb">
         		<h1>OpenPolyray</h1>
