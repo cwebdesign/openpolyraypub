@@ -6,7 +6,7 @@
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="/">Home</a></li>
+        		<li><a href="/">Homemd</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">xCV</a></li>
         		<li><a href="/blog">Blog</a></li>
