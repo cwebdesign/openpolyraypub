@@ -15,11 +15,6 @@
     		straightforward replacement for Polyray especially for educational usage.</p>
     		
 		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:">email</a></li>
-        		<li><a href="https://github.com/">github.com/</a></li>
-			</ul>
-		</footer>
+		
 	</body>
 </html>
